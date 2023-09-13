@@ -13,5 +13,5 @@ def genhesla(h=0):
             vysledok[h] = pis
             genhesla(h+1)
 
-genhesla(0)
+genhesla()
 
